@@ -34,7 +34,7 @@ Ensure you have the following installed on your system:
    ```bash
    git clone https://github.com/meashishpatel/Edulyst_Venture_Assignment
 
-   cd mern-crud-app
+   cd Edulyst_Venture_Assignment
    ```
 
 2. **Backend Setup**
