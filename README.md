@@ -2,6 +2,8 @@
 
 A simple MERN (MongoDB, Express.js, React.js, Node.js) stack application for managing user details. This application allows users to add, display, update, and delete user details, including profile images. The frontend is built using React (with Vite), and the backend is developed with Express.js.
 
+Demo Video Link: [https://drive.google.com/file/d/1KVL3fAlFLK93-a_2oqstU7ULn4yRiS2F/view?usp=sharing](https://drive.google.com/file/d/1KVL3fAlFLK93-a_2oqstU7ULn4yRiS2F/view?usp=sharing)
+
 ## Features
 
 - Add user details (name, phone, email, profile image).
